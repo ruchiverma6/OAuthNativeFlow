@@ -1,0 +1,4 @@
+# Version: 12.2.1.12 (d15-9: 65ec520f)
+# [first argument, ignore] # @/Users/ruchidevi/Downloads/OAuthNativeFlow/iOS/obj/iPhoneSimulator/Debug/response-file.rsp
+/Library/Frameworks/Xamarin.iOS.framework/Versions/12.2.1.12/lib/mtouch/mtouch.exe \
+	'--gcc_flags=-Xlinker -sectcreate -Xlinker __TEXT -Xlinker __entitlements -Xlinker /Users/ruchidevi/Downloads/OAuthNativeFlow/iOS/obj/iPhoneSimulator/Debug/Entitlements.xcent' \

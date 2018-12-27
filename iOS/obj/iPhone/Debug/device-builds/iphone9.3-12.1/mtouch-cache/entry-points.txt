@@ -1,0 +1,31 @@
+Function=xamarin_timezone_get_data
+	/Users/ruchidevi/Downloads/OAuthNativeFlow/iOS/obj/iPhone/Debug/device-builds/iphone9.3-12.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/ruchidevi/Downloads/OAuthNativeFlow/iOS/obj/iPhone/Debug/device-builds/iphone9.3-12.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/ruchidevi/Downloads/OAuthNativeFlow/iOS/obj/iPhone/Debug/device-builds/iphone9.3-12.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/ruchidevi/Downloads/OAuthNativeFlow/iOS/obj/iPhone/Debug/device-builds/iphone9.3-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/ruchidevi/Downloads/OAuthNativeFlow/iOS/obj/iPhone/Debug/device-builds/iphone9.3-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/ruchidevi/Downloads/OAuthNativeFlow/iOS/obj/iPhone/Debug/device-builds/iphone9.3-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/ruchidevi/Downloads/OAuthNativeFlow/iOS/obj/iPhone/Debug/device-builds/iphone9.3-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/ruchidevi/Downloads/OAuthNativeFlow/iOS/obj/iPhone/Debug/device-builds/iphone9.3-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/ruchidevi/Downloads/OAuthNativeFlow/iOS/obj/iPhone/Debug/device-builds/iphone9.3-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_start_wwan
+	/Users/ruchidevi/Downloads/OAuthNativeFlow/iOS/obj/iPhone/Debug/device-builds/iphone9.3-12.1/mtouch-cache/1-Link/System.dll
+Function=CreateZStream
+	/Users/ruchidevi/Downloads/OAuthNativeFlow/iOS/obj/iPhone/Debug/device-builds/iphone9.3-12.1/mtouch-cache/1-Link/System.dll
+Function=CloseZStream
+	/Users/ruchidevi/Downloads/OAuthNativeFlow/iOS/obj/iPhone/Debug/device-builds/iphone9.3-12.1/mtouch-cache/1-Link/System.dll
+Function=Flush
+	/Users/ruchidevi/Downloads/OAuthNativeFlow/iOS/obj/iPhone/Debug/device-builds/iphone9.3-12.1/mtouch-cache/1-Link/System.dll
+Function=ReadZStream
+	/Users/ruchidevi/Downloads/OAuthNativeFlow/iOS/obj/iPhone/Debug/device-builds/iphone9.3-12.1/mtouch-cache/1-Link/System.dll
+Function=WriteZStream
+	/Users/ruchidevi/Downloads/OAuthNativeFlow/iOS/obj/iPhone/Debug/device-builds/iphone9.3-12.1/mtouch-cache/1-Link/System.dll
+Function=mono_pmip

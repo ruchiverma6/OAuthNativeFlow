@@ -1,0 +1,11 @@
+/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/bin/Release/netstandard2.0/OAuthNativeFlow.deps.json
+/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/bin/Release/netstandard2.0/OAuthNativeFlow.dll
+/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/bin/Release/netstandard2.0/OAuthNativeFlow.pdb
+/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/obj/Release/netstandard2.0/App.xaml.g.cs
+/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/obj/Release/netstandard2.0/OAuthNativeFlowPage.xaml.g.cs
+/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/obj/Release/netstandard2.0/OAuthNativeFlow.csproj.CoreCompileInputs.cache
+/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/obj/Release/netstandard2.0/OAuthNativeFlow.AssemblyInfoInputs.cache
+/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/obj/Release/netstandard2.0/OAuthNativeFlow.AssemblyInfo.cs
+/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/obj/Release/netstandard2.0/XamlC.stamp
+/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/obj/Release/netstandard2.0/OAuthNativeFlow.dll
+/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/obj/Release/netstandard2.0/OAuthNativeFlow.pdb

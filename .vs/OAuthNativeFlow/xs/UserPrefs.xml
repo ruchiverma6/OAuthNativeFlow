@@ -1,0 +1,79 @@
+﻿<Properties StartupConfiguration="{AAF75E27-6460-44BE-91E7-F8C69B371111}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs">
+    <Files>
+      <File FileName="OAuthNativeFlow/Constants.cs" Line="1" Column="1" />
+      <File FileName="../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/iOS/Xamarin.iOS.Common.targets" Line="1" Column="1" />
+      <File FileName="Droid/CustomUrlSchemeInterceptorActivity.cs" Line="1" Column="1" />
+      <File FileName="Droid/Properties/AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="OAuthNativeFlow/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" Line="31" Column="21" />
+      <File FileName="Droid/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="OAuthNativeFlow/loginlayer/AuthenticationState.cs" Line="1" Column="1" />
+      <File FileName="OAuthNativeFlow/OAuthNativeFlowPage.xaml" Line="7" Column="1" />
+      <File FileName="OAuthNativeFlow/App.xaml" Line="7" Column="1" />
+      <File FileName="OAuthNativeFlow/User.cs" Line="1" Column="1" />
+      <File FileName="OAuthNativeFlow/loginlayer/OAuthLogInHandler.cs" Line="17" Column="34" />
+      <File FileName="OAuthNativeFlow/loginlayer/OAuthLogInResponseEventArgs.cs" Line="1" Column="1" />
+      <File FileName="OAuthNativeFlow/loginlayer/LogInConstants.cs" Line="18" Column="136" />
+      <File FileName="iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="iOS/Entitlements.plist" />
+      <File FileName="iOS/Info.plist" />
+      <File FileName="iOS/LaunchScreen.storyboard" />
+      <File FileName="iOS/Main.cs" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.OAuthNativeFlow.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EEB0AC57-229F-4544-9F05-C39C11121D65" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OAuthNativeFlow.Droid AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" relfile="OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" line="29" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" relfile="OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" line="29" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" relfile="OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" line="29" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" relfile="OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" line="29" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" relfile="OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" line="29" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" relfile="OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" line="29" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" relfile="OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" line="29" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/Droid/CustomUrlSchemeInterceptorActivity.cs" relfile="Droid/CustomUrlSchemeInterceptorActivity.cs" line="21" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/Droid/MainActivity.cs" relfile="Droid/MainActivity.cs" line="18" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/Droid/MainActivity.cs" relfile="Droid/MainActivity.cs" line="17" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/Droid/CustomUrlSchemeInterceptorActivity.cs" relfile="Droid/CustomUrlSchemeInterceptorActivity.cs" line="25" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/Droid/CustomUrlSchemeInterceptorActivity.cs" relfile="Droid/CustomUrlSchemeInterceptorActivity.cs" line="27" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" relfile="OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" line="49" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" relfile="OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" line="24" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" relfile="OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" line="25" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" relfile="OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" line="27" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/OAuthLogInHandler.cs" relfile="OAuthNativeFlow/OAuthLogInHandler.cs" line="97" column="51" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/OAuthLogInHandler.cs" relfile="OAuthNativeFlow/OAuthLogInHandler.cs" line="115" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/OAuthLogInHandler.cs" relfile="OAuthNativeFlow/OAuthLogInHandler.cs" line="104" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/OAuthLogInHandler.cs" relfile="OAuthNativeFlow/OAuthLogInHandler.cs" line="107" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/OAuthLogInHandler.cs" relfile="OAuthNativeFlow/OAuthLogInHandler.cs" line="108" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" relfile="OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" line="36" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" relfile="OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" line="43" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" relfile="OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" line="45" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" relfile="OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" line="54" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" relfile="OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" line="64" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" relfile="OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" line="65" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" relfile="OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" line="22" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" relfile="OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" line="23" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/loginlayer/OAuthLogInHandler.cs" relfile="OAuthNativeFlow/loginlayer/OAuthLogInHandler.cs" line="32" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/loginlayer/OAuthLogInHandler.cs" relfile="OAuthNativeFlow/loginlayer/OAuthLogInHandler.cs" line="33" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/loginlayer/OAuthLogInHandler.cs" relfile="OAuthNativeFlow/loginlayer/OAuthLogInHandler.cs" line="44" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/loginlayer/OAuthLogInHandler.cs" relfile="OAuthNativeFlow/loginlayer/OAuthLogInHandler.cs" line="54" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/loginlayer/OAuthLogInHandler.cs" relfile="OAuthNativeFlow/loginlayer/OAuthLogInHandler.cs" line="66" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/loginlayer/OAuthLogInHandler.cs" relfile="OAuthNativeFlow/loginlayer/OAuthLogInHandler.cs" line="95" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/loginlayer/OAuthLogInHandler.cs" relfile="OAuthNativeFlow/loginlayer/OAuthLogInHandler.cs" line="76" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" relfile="OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" line="33" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/loginlayer/OAuthLogInHandler.cs" relfile="OAuthNativeFlow/loginlayer/OAuthLogInHandler.cs" line="103" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/loginlayer/OAuthLogInHandler.cs" relfile="OAuthNativeFlow/loginlayer/OAuthLogInHandler.cs" line="104" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/loginlayer/OAuthLogInHandler.cs" relfile="OAuthNativeFlow/loginlayer/OAuthLogInHandler.cs" line="83" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/loginlayer/OAuthLogInHandler.cs" relfile="OAuthNativeFlow/loginlayer/OAuthLogInHandler.cs" line="85" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/loginlayer/OAuthLogInHandler.cs" relfile="OAuthNativeFlow/loginlayer/OAuthLogInHandler.cs" line="86" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/loginlayer/OAuthLogInHandler.cs" relfile="OAuthNativeFlow/loginlayer/OAuthLogInHandler.cs" line="74" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/loginlayer/OAuthLogInHandler.cs" relfile="OAuthNativeFlow/loginlayer/OAuthLogInHandler.cs" line="96" column="1" />
+      <Breakpoint file="/Users/ruchidevi/Downloads/OAuthNativeFlow/OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" relfile="OAuthNativeFlow/OAuthNativeFlowPage.xaml.cs" line="34" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
